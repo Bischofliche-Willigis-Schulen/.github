@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.willigis-online.de/">
-    <img src="https://www.willigis-online.de/wp-content/uploads/slider3/Willigis_042018_a-scaled.jpeg" width="100%" alt="Schulgebäude der Bischöflichen Willigis-Schulen Mainz" />
+    <img src="assets/header.jpg" width="100%" alt="Schulgebäude der Bischöflichen Willigis-Schulen Mainz" />
   </a>
   <h1>Bischöfliche Willigis-Schulen</h1>
   <p><strong>Tradition bewahren. Zukunft gestalten.</strong></p>
@@ -67,7 +67,7 @@ Bitte veröffentliche keine personenbezogenen Daten aus dem Schulalltag, Zugangs
 ---
 
 <div align="center">
-  <a href="https://www.willigis-online.de/"><img src="https://www.willigis-online.de/wp-content/themes/willigis/img/Logo.png" width="240" alt="Willigis Mainz" /></a>
+  <a href="https://www.willigis-online.de/"><img src="assets/logo.png" width="240" alt="Willigis Mainz" /></a>
   <h3>Bischöfliche Willigis-Schulen Mainz</h3>
   <p>Willigisplatz 2 · 55116 Mainz · Deutschland</p>
   <p><a href="https://www.willigis-online.de/">Website</a> · <a href="https://www.willigis-online.de/kontakt/">Kontakt</a> · <a href="https://www.willigis-online.de/impressum/">Impressum</a></p>
