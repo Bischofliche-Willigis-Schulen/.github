@@ -5,7 +5,7 @@
   <h1>Bischöfliche Willigis-Schulen</h1>
   <p><strong>Tradition bewahren. Zukunft gestalten.</strong></p>
   <p>Gymnasium &amp; Realschule · Mainz, Rheinland-Pfalz</p>
-  <a href="https://www.willigis-online.de/"><img src="https://img.shields.io/badge/Schulwebsite-F52317?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Schulwebsite" /></a>
+  <a href="https://www.willigis-online.de/"><img src="https://img.shields.io/badge/Schulwebsite-F52317?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4%3D" alt="Schulwebsite"></a>
   <a href="https://github.com/orgs/Bischofliche-Willigis-Schulen/repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
   <a href="mailto:app@willigis-online.de"><img src="https://img.shields.io/badge/Kontakt-F52317?style=for-the-badge" alt="Technischer Kontakt" /></a>
 </div>
