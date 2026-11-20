@@ -67,7 +67,13 @@ Bitte veröffentliche keine personenbezogenen Daten aus dem Schulalltag, Zugangs
 ---
 
 <div align="center">
-  <a href="https://www.willigis-online.de/"><img src="assets/logo.png" width="240" alt="Willigis Mainz" /></a>
+  <a href="https://www.willigis-online.de/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/willigis-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/willigis-light.png">
+      <img src="assets/logo.png" width="240" alt="Willigis Mainz">
+    </picture>
+  </a>
   <h3>Bischöfliche Willigis-Schulen Mainz</h3>
   <p>Willigisplatz 2 · 55116 Mainz · Deutschland</p>
   <p><a href="https://www.willigis-online.de/">Website</a> · <a href="https://www.willigis-online.de/kontakt/">Kontakt</a> · <a href="https://www.willigis-online.de/impressum/">Impressum</a></p>
